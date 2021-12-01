@@ -8,6 +8,7 @@
 <img width="374" alt="屏幕快照 2021-12-01 下午5 36 26" src="https://user-images.githubusercontent.com/91987208/144284786-8c1aeb97-377c-46b5-a8c7-e6d71978dbad.png">
 <img width="1108" alt="屏幕快照 2021-12-01 下午5 37 19" src="https://user-images.githubusercontent.com/91987208/144284934-08366185-abb4-48b3-b4bc-7cca5727522e.png">
 
+```
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const char *words[] = {"Star","to","spaces","vast","and","far","What","matters","darkness","the","star","Roll","calmly","on","let","time","go",
@@ -136,4 +137,5 @@ void key_scan()
    }
  }
 }
+
 ```
