@@ -1,5 +1,13 @@
 # Final Work
-````
+<img width="853" alt="封面" src="https://user-images.githubusercontent.com/91987208/144283079-75876374-46ac-4084-8eaf-7c851a7407fe.png">
+
+<img width="1033" alt="屏幕快照 2021-12-01 下午5 35 19" src="https://user-images.githubusercontent.com/91987208/144284620-3dcec2de-85b2-49a7-9e06-21eaf9e608fe.png">
+
+![WechatIMG191](https://user-images.githubusercontent.com/91987208/144284671-e018f851-66ef-415a-a181-40a55157e662.jpeg)
+
+<img width="374" alt="屏幕快照 2021-12-01 下午5 36 26" src="https://user-images.githubusercontent.com/91987208/144284786-8c1aeb97-377c-46b5-a8c7-e6d71978dbad.png">
+<img width="1108" alt="屏幕快照 2021-12-01 下午5 37 19" src="https://user-images.githubusercontent.com/91987208/144284934-08366185-abb4-48b3-b4bc-7cca5727522e.png">
+
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const char *words[] = {"Star","to","spaces","vast","and","far","What","matters","darkness","the","star","Roll","calmly","on","let","time","go",
